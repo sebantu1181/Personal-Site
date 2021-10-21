@@ -20,5 +20,5 @@ This paragraph has seven `words` in it.
 
 
 
-[Link to Block of Code](BlockofCode.md)
+[Link to Block of Code](BlockOfCode.md)
 
