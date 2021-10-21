@@ -13,6 +13,7 @@
 - Making Videos
 
 Image: University of Missouri-Columbia
+
 ![Mizzou](https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/6/e9/6e9eae87-35d9-5219-b089-699de69e2d07/5a75172c61d42.image.jpg)
 
 
