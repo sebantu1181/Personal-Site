@@ -5,7 +5,7 @@ _Write a Python 3 program called **cylindervolumecalc.py** that accepts user inp
 #### _This is my code from IT-1040_
 ```python
 #This program is going to calculate the Volume of a Cylinder
-#Volume = pi * r^2* h
+#Volume = pi * r^2 * h
 
 import math
 
