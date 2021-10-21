@@ -1,3 +1,3 @@
 # Personal site
 
-For an assignment!
+For IT-1000 assignment!
