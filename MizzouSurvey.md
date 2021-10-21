@@ -1,3 +1,4 @@
+ 
  # University of Missouri-Columbia `Rating Survey`!
  
  ### Ratings:
