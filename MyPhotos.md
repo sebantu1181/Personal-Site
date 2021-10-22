@@ -1,6 +1,6 @@
 
 # These are some of the Photographs I took
-Please let me know what you think (Open in new tap)
+Please let me know what you think (Open in new a tap)
 
 Rollins and Gillett hall:
 [Rollins and Gillett hall](https://mail.google.com/mail/u/0?ui=2&ik=704a3a243f&attid=0.1&permmsgid=msg-a:r-9169294550105932458&th=17ca4a4b1ab7c826&view=fimg&fur=ip&sz=s0-l75-ft&attbid=ANGjdJ-FrefSxABCVZbZiDcw7DLt8jd_qY7bjO76PXSGU6k_BrPuS3lh72UF9BB3spVP4wzLYuzx347Kut3xgAfCkJhnM4kV9dnDhkckJzi3ltjN3U842FELJ802AyY&disp=emb&realattid=ii_kv1etar00)
